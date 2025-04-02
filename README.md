@@ -1,7 +1,4 @@
-# 🐾 Calculusai 猫猫大王工坊 🎲
-
-**猫猫大王**携手**龙与地下城爱好者**的微积分 冒险之旅
-
+# 🐾 Calculusai 猫猫大王工坊
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
