@@ -1,13 +1,14 @@
 # 🐾 Calculusai 猫猫大王工坊 🎲
+
 **猫猫大王**携手**龙与地下城爱好者**的微积分 冒险之旅
 
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       👑 我是那只统治着代码世界的猫猫大王，每一次敲击键盘，都像是挥动着神秘的魔法权杖。<br>
       ⚔️ 同时，我也是一位痴迷于《龙与地下城》的狂热玩家，在那充满奇幻的桌面世界里，探寻无尽的冒险与挑战。
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://images.hoshinoai.xin/icon/web.webp" alt="猫猫大王">
     </td>
   </tr>
