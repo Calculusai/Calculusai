@@ -1,17 +1,17 @@
 # 🐾 Calculusai 猫猫大王工坊 🎲
 **猫猫大王**携手**龙与地下城爱好者**的微积分 冒险之旅
 
-<div style="display: flex; align-items: center; gap: 2rem;">
-    <div style="flex: 1;">
-        👑 我是那只统治着代码世界的猫猫大王，每一次敲击键盘，都像是挥动着神秘的魔法权杖。
-        ⚔️ 同时，我也是一位痴迷于《龙与地下城》的狂热玩家，在那充满奇幻的桌面世界里，探寻无尽的冒险与挑战。
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://images.hoshinoai.xin/icon/web.webp" 
-             alt="猫猫大王" 
-             style="max-width: 200px; height: auto;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      👑 我是那只统治着代码世界的猫猫大王，每一次敲击键盘，都像是挥动着神秘的魔法权杖。<br>
+      ⚔️ 同时，我也是一位痴迷于《龙与地下城》的狂热玩家，在那充满奇幻的桌面世界里，探寻无尽的冒险与挑战。
+    </td>
+    <td>
+      <img src="https://images.hoshinoai.xin/icon/web.webp" alt="猫猫大王">
+    </td>
+  </tr>
+</table>
 
 ## 📮 联络方式
 📧 魔法信件通道：[1697391069@qq.com](mailto:1697391069@qq.com)
