@@ -1,4 +1,4 @@
-# 🐾 Calculusai 猫猫大王工坊
+# 🐾 HoshinoAi 猫猫大王工坊
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
